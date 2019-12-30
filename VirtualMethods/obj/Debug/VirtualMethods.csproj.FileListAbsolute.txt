@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\Lenovo\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\Lenovo\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\Lenovo\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\Lenovo\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb
+C:\Users\Lenovo\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csprojAssemblyReference.cache
